@@ -1,10 +1,8 @@
-# simple server
-# 简单的静态server服务
+# simple server 简单的静态server服务
 
 > It only takes four steps to complete. 仅仅需要四步就可以完成。
 
-## Build Setup
-## 创建安装
+## Build Setup 创建安装
 
 ```
 // Step 1: 第一步
