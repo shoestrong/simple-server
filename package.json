@@ -1,0 +1,11 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "简单的静态资源服务",
+  "main": "index.js",
+  "author": "shoestrong",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.3.1"
+  }
+}
