@@ -5,7 +5,11 @@
   "main": "index.js",
   "author": "shoestrong",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
-    "mime": "^2.3.1"
+    "mime": "^2.3.1",
+    "nodemon": "^1.18.2"
   }
 }
