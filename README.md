@@ -9,7 +9,7 @@
 git clone git@github.com:Shoestrong/simple_server.git
 
 // Step 2: 第二步
-npm install (or或 yarn install)
+npm install (or 或 yarn install)
 
 // Step 3: 第三步
 npm run dev (or或 nodemon index.js or或 node index.js)
